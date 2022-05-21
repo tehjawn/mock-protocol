@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mock-protocol/static/css/main.82777e37.css",
+    "main.js": "/mock-protocol/static/js/main.ec86d242.js",
+    "static/js/787.c1112931.chunk.js": "/mock-protocol/static/js/787.c1112931.chunk.js",
+    "index.html": "/mock-protocol/index.html",
+    "main.82777e37.css.map": "/mock-protocol/static/css/main.82777e37.css.map",
+    "main.ec86d242.js.map": "/mock-protocol/static/js/main.ec86d242.js.map",
+    "787.c1112931.chunk.js.map": "/mock-protocol/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82777e37.css",
+    "static/js/main.ec86d242.js"
+  ]
+}
